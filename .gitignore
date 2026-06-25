@@ -1,0 +1,3 @@
+auto-promote.sh
+*.log
+.DS_Store
