@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fengguangyu.github.io/jiatou-changying-intro/sitemap.xml
+Sitemap: https://jiatou.fyi/sitemap.xml
